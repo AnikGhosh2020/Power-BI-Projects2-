@@ -1,4 +1,4 @@
-# Power-BI-Projects2-
+# Power-BI-Projects2
 Adidas Sales Analysis
 Adidas Sales Analysis – Power BI Dashboard
 
